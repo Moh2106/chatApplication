@@ -1,0 +1,26 @@
+.borderPane{
+    -fx-background-color: url("../assets/chatpage.jpg") auto;
+}
+
+.label{
+    -fx-background-color: #26b044;
+    -fx-text-fill: #fff;
+    -fx-border-radius: 50px;
+    -fx-padding: 0.5em;
+    -fx-font-weight: 700;
+    -fx-end-margin: 0.5em;
+}
+
+.list-view{
+    -fx-background-color: url("../assets/connection_conversation.png");
+}
+
+.list-cell{
+    -fx-fill-width: 90%;
+}
+
+.button{
+    -fx-background-color: #087e8b;
+    -fx-text-fill: #fff;
+    -fx-font-weight: 700;
+}
